@@ -1,0 +1,79 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="field" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="doctype" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="selenium" />
+            <item index="1" class="java.lang.String" itemvalue="general" />
+            <item index="2" class="java.lang.String" itemvalue="django-notifications-hq" />
+            <item index="3" class="java.lang.String" itemvalue="Django" />
+            <item index="4" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="5" class="java.lang.String" itemvalue="social-auth-app-django" />
+            <item index="6" class="java.lang.String" itemvalue="certifi" />
+            <item index="7" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="8" class="java.lang.String" itemvalue="urllib3" />
+            <item index="9" class="java.lang.String" itemvalue="six" />
+            <item index="10" class="java.lang.String" itemvalue="djangorestframework-simplejwt" />
+            <item index="11" class="java.lang.String" itemvalue="joblib" />
+            <item index="12" class="java.lang.String" itemvalue="numpy" />
+            <item index="13" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="14" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="15" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="16" class="java.lang.String" itemvalue="asgiref" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="webappexample.auth0login.views.*" />
+          <option value="django.db.models.fields.files.ImageField.path" />
+          <option value="django.db.models.fields.CharField.__add__" />
+          <option value="base.views.rest_framework_simplejwt" />
+          <option value="base.views.users_views.rest_framework_simplejwt" />
+          <option value="base.serializers.rest_framework_simplejwt" />
+          <option value="list.items" />
+          <option value="django.db.models.fields.DecimalField.__mul__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
